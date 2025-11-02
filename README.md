@@ -10,6 +10,7 @@ Bagian inti pada program ini terdapat di dalam kelas App.java yang berfungsi seb
 
 Tampilan visual permainan diatur pada kelas View.java. Kelas ini menggunakan JPanel untuk menggambar elemen seperti burung dan pipa menggunakan metode paintComponent(). Selain itu, View.java juga menambahkan sebuah JLabel di pojok kiri atas untuk menampilkan skor dengan teks “Score: 0”.
 
+
 Dokumentasi saat program game FlappyBird dijalankan
 
 **Menu**
