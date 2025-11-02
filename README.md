@@ -2,7 +2,7 @@
 
 Saya Firda Ridzki Utami dengan NIM 2401626 mengerjakan TP6 dalam Praktikum mata kuliah DPBO untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aaminn
 
-## Desain program game FlappyBird
+## Desain program
 
 Secara keseluruhan, alur program berjalan mulai dari tampilan menu utama, lalu masuk ke permainan utama saat pemain menekan tombol “Start Game”. Saat permainan berlangsung, burung akan bergerak karena pengaruh gravitasi dan dapat dikendalikan dengan tombol spasi untuk terbang. Skor pemain akan bertambah setiap kali berhasil melewati pipa, dan permainan akan berhenti jika burung menabrak pipa atau jatuh ke bawah. Setelah Game Over, pemain dapat menekan tombol “R” untuk memulai kembali permainan dari awal.
 
