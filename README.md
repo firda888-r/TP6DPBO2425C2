@@ -12,13 +12,16 @@ Tampilan visual permainan diatur pada kelas View.java. Kelas ini menggunakan JPa
 
 Dokumentasi saat program game FlappyBird dijalankan
 
+**Menu**
+
+![menu](https://github.com/user-attachments/assets/93965c8c-0268-403e-9e4f-9434f0802497)
+
+
 ![play](https://github.com/user-attachments/assets/c8d7b05c-595d-4b77-aa43-3758b6d377f5)
+
 
 **Game over**
 
 ![game over](https://github.com/user-attachments/assets/63678d00-d2b7-4a86-928c-7cd3a9e5e9ca)
 
 
-**Menu**
-
-![menu](https://github.com/user-attachments/assets/93965c8c-0268-403e-9e4f-9434f0802497)
